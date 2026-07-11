@@ -1,6 +1,6 @@
 {
-  "version": "1.0.260711.30",
-  "notes": "- Strip context menu: drop black-background toggle, add \"Check for updates\u2026\"",
-  "url": "https://github.com/ArneNostitz/topbar-scroller-releases/releases/download/v1.0.260711.30/MacMenu-Scroller.zip",
-  "sha256": "eb178312e34746afe9e2ca1cfe97e545ef643b55312c0458bcba724b51868d59"
+  "version": "1.0.260711.32",
+  "notes": "- Add \"Report a bug\u2026\" menu item; move releases repo to anydaysomething",
+  "url": "https://github.com/anydaysomething/topbar-scroller-releases/releases/download/v1.0.260711.32/MacMenu-Scroller.zip",
+  "sha256": "39b2c1b1b0d51ff9919622fbe1478c8d499fc5b30d1711d9f4f438ad74e13842"
 }
