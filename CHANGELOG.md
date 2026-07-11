@@ -1,5 +1,9 @@
-<!-- last-commit-count: 28 -->
+<!-- last-commit-count: 30 -->
 # MacMenu Scroller Changelog
+
+## 1.0.260711.30 — 2026-07-11
+
+- Strip context menu: drop black-background toggle, add "Check for updates…"
 
 ## 1.0.260711.28 — 2026-07-11
 
